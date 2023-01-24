@@ -1,6 +1,6 @@
 const ages = [11, 21, 33, 45, 55, 67];
 
-const adults = ages.filter (age => {
+const adults = ages.filter(age => {
     return age > 18;
 });
 
